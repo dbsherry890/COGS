@@ -5,6 +5,7 @@
   </head>
 
   <body  class="pg"> 
+    <h4>Press the Full Screen button (bottom right) for a better view </h4>
     <h1>Cost of Goods Sold Analysis (2022-2023)</h1>
     <iframe title="Report Section" width="900" height="675" src="https://app.powerbi.com/view?r=eyJrIjoiYWM1OGNjMWItNDg4MS00ZTU1LWI0ODAtYTliMzI1YjQzMWNjIiwidCI6IjJjZjFiZWMwLTI1MmQtNGU1Yi05Y2QwLTRkMGJiZjI2MTRlYSJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
   </body>

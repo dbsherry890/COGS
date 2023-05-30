@@ -1,0 +1,11 @@
+<html> 
+  <head>
+    <title>COGS</title> 
+    <link rel="stylesheet" type="text/css" href="mvp.css" />
+  </head>
+
+  <body  class="pg"> 
+    <h1>Cosst of Goods Sold Analysis (2022-2023)</h1>
+    <iframe title="Report Section" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiYWM1OGNjMWItNDg4MS00ZTU1LWI0ODAtYTliMzI1YjQzMWNjIiwidCI6IjJjZjFiZWMwLTI1MmQtNGU1Yi05Y2QwLTRkMGJiZjI2MTRlYSJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+  </body>
+</html>

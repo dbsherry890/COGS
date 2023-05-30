@@ -1,5 +1,7 @@
 /* MVP.css v1.12 - https://github.com/andybrewer/mvp */
-
+#my{
+zoom: 100%;
+}
 :root {
     --active-brightness: 0.85;
     --border-radius: 5px;
